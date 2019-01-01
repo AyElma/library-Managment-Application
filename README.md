@@ -5,6 +5,6 @@ Language C compiler that is defaultly installed in the OS
 
 Install Gtk+2 Library and C IDE.
 
-to use the c code, just change the paths in same files
+to use the c functions, just change the paths in the code
 ### Test 
 For Windows OS therse is .exe to test it.
