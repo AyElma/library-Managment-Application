@@ -1,5 +1,5 @@
 # Library Managment Application , C, Gtk+
-library Managment Application create using C and gtk+. allows you to manage your library with nice and easy user interface.
+library Managment Application created using C and gtk+. allows you to manage your library with nice and easy user interface.
 ### Requirement :
 Language C compiler that is defaultly installed in the OS
 
